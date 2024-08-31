@@ -1,4 +1,4 @@
-package dev.marco.example.springboot.feature;
+package dev.kavi.example.springboot.feature;
 
 import org.springframework.stereotype.Service;
 
