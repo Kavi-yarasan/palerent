@@ -1,4 +1,4 @@
-package dev.marco.example.springboot;
+package dev.kavi.example.springboot;
 
 import dev.marco.example.springboot.hello.HelloController;
 import org.assertj.core.api.Assertions;
